@@ -1,0 +1,8 @@
+h1 {
+    text-align: center;
+}
+.works-block {
+    display: flex;
+    justify-content: center;
+    align-content: stretch;
+}
